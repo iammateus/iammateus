@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: #868686;
+}
+
+body, html{
+	scroll-behavior: smooth;
+}
+
+body{
+	background-color: #fbf6f7;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: black; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #8a2d4a; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background:black; 
+}
+
+#profile-box{
+	width: 350px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 65px 0 32px;
+	color: black;
+}
+
+#avatar{
+	width: 190px;
+	border-radius: 50%;
+	margin: 0 auto;
+	display: block;
+	box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 0.76);
+}
+
+#profile-box h1{
+	font-weight: normal;
+	padding: 27px 0 0;
+	font-size: 28px;
+}
+
+#profile-box h2{
+    font-weight: normal;
+    padding: 32px 0 18px;
+    font-size: 20px;
+    color: #524f50;
+}
+
+.contact{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.link-wrapper {
+    font-size: 17px;
+    position: relative;
+    width: fit-content;
+    display: flex;
+    align-content: center;
+}
+
+.link-wrapper img{
+	margin: 0 5px 0 0;
+}
+
+.link-wrapper::after{
+	content: "";
+	height: 2px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	bottom: -8px;
+	background-color: #868686;
+	width: 0;
+	transition: 400ms;
+}
+
+.link-wrapper:hover::after{
+	width: 100%
+}
+
+section{
+	background-color: #332b2e;
+	color: black;
+	min-height: 40vh;
+	position: relative;
+	-webkit-clip-path: polygon(0 0%, 100% 10%, 100% 100%, 0% 90%);
+	clip-path: polygon(0 0%, 100% 10%, 100% 100%, 0% 90%);
+	padding: 65px 10px;
+	color: white;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+.half{
+	width: 35%;
+	padding: 85px 2%;
+}
+
+.icon{
+	width: 20px
+}
+
+.menu{
+	width: 65px;
+	position: absolute;
+	right: 50px;
+	top: 35px;
+}
+
+.circle{
+	width: 80px;
+	height: 80px;
+	display: block;
+	border-radius: 50%;
+	line-height: 80px;
+	text-align: center
+}
+
+.menu a{
+	background-color: #ce3464;
+	margin: 0 0 14px;
+	color: white;
+	font-weight: bolder;
+	box-shadow: 0 0 4px 0px #000000eb;
+}
+
+.menu a:hover{
+	transition-duration: 300ms;
+	background-color: #892d4a;
+}
+
+#about h4{
+	font-size: 25px;
+	font-weight: normal;
+	padding: 0 0 20px 0;
+}
+
+#about h5{
+	font-size: 22px;
+	font-weight: normal;
+	padding: 25px 0 10px 0;
+}
+
+.work-experience{
+	display: flex;
+	margin: 48px 0;
+}
+
+.work-experience-image{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%
+}
+
+.work-experience-content span{
+	padding: 5px 25px 0;
+	font-size: 12px;
+	font-weight: bold;
+	color: #b5b6c1;
+}
+
+.work-experience-content p{
+	padding: 10px 25px 0;
+}
+
+ul.skills-list {
+    list-style: none;
+}
+
+ul.skills-list li {
+    display: flex;
+    height: 50px;
+    background-color: rgba(255,255,255,0.5);
+    line-height: 50px;
+	padding: 0 20px;
+	margin-bottom: 5px;
+	justify-content: space-between;
+	position: relative;
+}
+
+ul.skills-list li > *{
+	z-index: 2;
+}
+
+ul.skills-list li >  div.progress-bar{
+	z-index: 1;
+	background-color: #ce3464;
+	position: absolute;
+	height: 50px;
+	left: 0;
+
+}
