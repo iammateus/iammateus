@@ -7,6 +7,10 @@
 	font-family: 'Roboto', sans-serif !important;
 }
 
+img{
+	max-width: 100%;
+}
+
 a{
 	text-decoration: none;
 	color: #868686;
@@ -41,7 +45,7 @@ body{
 }
 
 #profile-box{
-	width: 350px;
+	max-width: 350px;
 	margin: 0 auto;
 	text-align: center;
 	padding: 65px 0 32px;
@@ -189,7 +193,8 @@ section#contact{
 .work-experience-image{
 	width: 80px;
 	height: 80px;
-	border-radius: 50%
+	min-width: 80px;
+	border-radius: 50%;
 }
 
 .work-experience-content span{
@@ -335,11 +340,49 @@ footer{
 
 .project{
 	display: flex;
-	justify-content: center
+	justify-content: center;
+	flex-wrap: wrap
+}
+
+.project img{
+	max-width: 50%;
 }
 
 .project-content h4 {
     color: #ce4364;
     font-size: 20px;
     padding-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+	section#about .half{
+		width: 100%
+	}
+	section#projects .half{
+		width: 100%
+	}
+	.project img {
+		max-width: 100%;
+	}
+
+	.half {
+		padding: 25px 2%;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	.circle {
+		width: 65px;
+		height: 65px;
+		line-height: 65px;
+		font-size: 12px;
+	}
+
+	.menu a {
+		margin: 0 0 5px;
+	}
+
+	.menu {
+		right: 5px;
+	}
 }
