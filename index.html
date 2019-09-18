@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<title>Mateus Soares' Portfolio</title>
+</head>
+<body>
+	<header>
+		<div id="profile-box">
+			<img id="avatar" src="./assets/img/avatar.jpg" alt="">
+			<h1>Mateus Soares</h1>
+			<h2>System Analyst | Web Developer</h2>
+			<div class="contact">
+				<div class="link-wrapper">
+					<img class="icon" src="assets/img/github.png">
+					<a target="_blank" href="https://github.com/mateussoares1997">Github</a>
+				</div>
+				<div class="link-wrapper">
+					<img class="icon" src="assets/img/facebook.png">
+					<a target="_blank" href="https://www.facebook.com/eu.sim.sou.brooklyn">Facebook</a>
+				</div>
+				<div class="link-wrapper">
+					<img class="icon" src="assets/img/linkedin.png">
+					<a target="_blank" href="https://www.linkedin.com/in/mateussoaressilva/">LinkedIn</a>
+				</div>
+			</div>
+		</div>
+		<nav class="menu">
+			<a class="circle" href="#about">About me</a>
+			<a class="circle" href="#projects">Projects</a>
+			<a class="circle" href="#contact">Contact</a>
+		</nav>
+	</header>
+	<main>
+		<section id="about">
+			<div class="half">
+				<h4>About me</h4>
+				<p>
+					I'm a System Analyst at Pravaler SA and also freelancer Full Stack Developer in my free time.
+					I have serious passion for problem solving, creative and well optimized solutions and high quality code masterpieces. 
+					Let's make something special.
+				</p>
+				<h5>Work Experience</h5>
+				<div class="work-experience">
+					<div>
+						<img class="work-experience-image" src="./assets/img/pravaler.png" alt="">
+					</div>
+					<div class="work-experience-content">
+						<p>System Analyst at Pravaler</p>
+						<span>Jul 2019 – Present</span>
+					</div>
+				</div>
+				<div class="work-experience">
+					<div>
+						<img class="work-experience-image" src="./assets/img/okn.png" alt="">
+					</div>
+					<div class="work-experience-content">
+						<p>Full Stack Developer at OKN Group</p>
+						<span>Jul 2018 – Jun 2019</span>
+					</div>
+				</div>
+				<div class="work-experience">
+					<div>
+						<img class="work-experience-image" src="./assets/img/okn.png" alt="">
+					</div>
+					<div class="work-experience-content">
+						<p>Front End Developer at OKN Group</p>
+						<span>Jan 2018 – Jun 2018</span>
+					</div>
+				</div>
+			</div>
+			<div class="half">
+				<h4>Skills</h4>
+				<ul class="skills-list">
+					<li class="skill">
+						<div>PHP</div>
+						<div>80%</div>
+						<div style="width: 80%" class="progress-bar"></div>
+					</li>
+					<li class="skill">
+						<div>Javascript</div>
+						<div>80%</div>
+						<div style="width: 80%" class="progress-bar"></div>
+					</li>
+					<li class="skill">
+						<div>MySQL</div>
+						<div>70%</div>
+						<div style="width: 70%" class="progress-bar"></div>
+					</li>
+					<li class="skill">
+						<div>Docker</div>
+						<div>60%</div>
+						<div style="width: 60%" class="progress-bar"></div>
+					</li>
+				</ul>
+			</div>
+		</section>
+		<section id="projects">
+			<h5 class="section-title">My Projects</h5>
+			<div class="project">
+				<img class="project-preview-image half" src="./assets/img/Responsive-Web-Design-PNG-Image1.png" alt="">
+				<div class="project-content half">
+					<h4>Pawsapp</h4>
+					<p>A charming social media for pets created using PHP, Mysql and Javascript.</p>
+				</div>
+			</div>
+		</section>
+		<section id="contact">
+			<h5 class="section-title">Contact me</h5>
+			<form id="contact-form" class="form" method="post">
+				<div class="contact-fields-wrapper">
+					<label>
+						<input class="form-controller" type="text" name="subject" placeholder="Subject">
+					</label>
+					<label>
+						<input class="form-controller" type="email" name="email"placeholder="Email"> 
+					</label>
+				</div>
+				<label>
+					<textarea class="form-controller" name="message" placeholder="Message"></textarea>
+				</label>
+				<input type="submit" value="Submit">
+			</form>
+		</section>
+	</main>
+	<footer>
+		I'm available for work, get in touch
+	</footer>
+	<script src="./assets/js/main.js"></script>
+</body>
+</html>
