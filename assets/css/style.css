@@ -130,7 +130,7 @@ section#projects{
 
 section#contact{
 	background-color:  #332b2e;
-	padding: 150px 0;
+	padding: 150px 10px;
 	-webkit-clip-path: polygon(0 0%, 100% 0%, 100% 100%, 0% 100%);
 	clip-path: polygon(0 5%, 100% 0%, 100% 100%, 0% 100%);
 }
