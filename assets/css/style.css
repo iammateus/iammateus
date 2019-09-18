@@ -293,7 +293,7 @@ textarea{
 	resize: none
 }
 
-input[type=button]{
+input[type=submit]{
 	margin: 24px 0 55px;
 	background-color: #ce3464;
 	color: white;
@@ -304,7 +304,7 @@ input[type=button]{
 	transition-duration: 300ms;
 }
 
-input[type=button]:hover{
+input[type=submit]:hover{
     background-color: #892d4a;
 }
 
