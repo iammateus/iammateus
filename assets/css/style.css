@@ -137,7 +137,7 @@ section#contact{
 
 .half{
 	width: 35%;
-	padding: 85px 2%;
+	padding: 60px 2%;
 }
 
 .icon{
@@ -174,7 +174,7 @@ section#contact{
 }
 
 #about h4{
-	font-size: 25px;
+	font-size: 1.6em;
 	font-weight: normal;
 	padding: 0 0 20px 0;
 }
@@ -187,7 +187,7 @@ section#contact{
 
 .work-experience{
 	display: flex;
-	margin: 48px 0;
+	margin: 25px 0;
 }
 
 .work-experience-image{
