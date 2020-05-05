@@ -117,7 +117,7 @@ section{
 	position: relative;
 	-webkit-clip-path: polygon(0 0%, 100% 10%, 100% 100%, 0% 90%);
 	clip-path: polygon(0 0%, 100% 5%, 100% 100%, 0% 95%);
-	padding: 65px 10px;
+	padding: 65px 20px;
 	color: white;
 	display: flex;
 	flex-wrap: wrap;
@@ -134,7 +134,7 @@ section#projects{
 
 section#contact{
 	background-color:  #332b2e;
-	padding: 150px 10px;
+	padding: 150px 20px;
 	-webkit-clip-path: polygon(0 0%, 100% 0%, 100% 100%, 0% 100%);
 	clip-path: polygon(0 5%, 100% 0%, 100% 100%, 0% 100%);
 }
@@ -303,7 +303,7 @@ input[type=submit]{
 	color: white;
 	border: none;
 	font-size: 19px;
-	padding: 5px 10px;
+	padding: 16px 24px;
 	cursor: pointer;
 	transition-duration: 300ms;
 }
