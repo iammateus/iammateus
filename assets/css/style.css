@@ -72,7 +72,7 @@ body{
 
 #profile-box h2{
     font-weight: normal;
-    padding: 32px 0 18px;
+    padding: 18px 0 18px;
     font-size: 20px;
     color: #524f50;
 }
@@ -359,6 +359,9 @@ footer{
 }
 
 @media screen and (max-width: 768px) {
+    #avatar{
+        width: 150px;
+    }
 	section#about .half{
 		width: 100%
 	}
@@ -375,6 +378,15 @@ footer{
 }
 
 @media screen and (max-width: 375px) {
+    #profile-box h1 {
+        padding: 25px 0 0;
+        font-size: 24px;
+    }
+
+    #profile-box h2 {
+        padding: 12px 0 18px;
+    }
+
 	.circle {
 		width: 65px;
 		height: 65px;
@@ -387,6 +399,6 @@ footer{
 	}
 
 	.menu {
-		right: 5px;
+		right: 10px;
 	}
 }
