@@ -303,7 +303,7 @@ input[type=submit]{
 	color: white;
 	border: none;
 	font-size: 19px;
-	padding: 16px 24px;
+	padding: 12px 24px;
 	cursor: pointer;
 	transition-duration: 300ms;
 }
