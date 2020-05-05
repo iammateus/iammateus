@@ -360,7 +360,7 @@ footer{
 
 @media screen and (max-width: 768px) {
     #avatar{
-        width: 150px;
+        width: 156px;
     }
 	section#about .half{
 		width: 100%
@@ -388,9 +388,9 @@ footer{
     }
 
 	.circle {
-		width: 65px;
-		height: 65px;
-		line-height: 65px;
+		width: 62px;
+		height: 62px;
+		line-height: 62px;
 		font-size: 12px;
 	}
 
@@ -399,6 +399,6 @@ footer{
 	}
 
 	.menu {
-		right: 10px;
+		right: 8px;
 	}
 }
