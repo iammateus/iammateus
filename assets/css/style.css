@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 header {
@@ -7,7 +14,8 @@ header {
 *{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
 	font-family: 'Roboto', sans-serif !important;
 }
 
@@ -61,7 +69,8 @@ body{
 	border-radius: 50%;
 	margin: 0 auto;
 	display: block;
-	box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 0.76);
+	-webkit-box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 0.76);
+	        box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 0.76);
 }
 
 #profile-box h1{
@@ -78,16 +87,25 @@ body{
 }
 
 .contact{
-	display: flex;
-	justify-content: space-evenly;
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
 }
 
 .link-wrapper {
     font-size: 17px;
     position: relative;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
     width: fit-content;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-content: center;
+    -ms-flex-line-pack: center;
+        align-content: center;
 }
 
 .link-wrapper img{
@@ -104,6 +122,8 @@ body{
 	bottom: -8px;
 	background-color: #868686;
 	width: 0;
+	-webkit-transition: 400ms;
+	-o-transition: 400ms;
 	transition: 400ms;
 }
 
@@ -119,9 +139,14 @@ section{
 	clip-path: polygon(0 0%, 100% 5%, 100% 100%, 0% 95%);
 	padding: 65px 20px;
 	color: white;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
 }
 
 section#about{
@@ -149,9 +174,9 @@ section#contact{
 }
 
 .menu{
-	width: 65px;
+	width: 80px;
 	position: absolute;
-	right: 50px;
+	right: 15px;
 	top: 35px;
 }
 
@@ -169,11 +194,14 @@ section#contact{
 	margin: 0 0 14px;
 	color: white;
 	font-weight: bolder;
-	box-shadow: 0 0 4px 0px #000000eb;
+	-webkit-box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.90);
+	        box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.90);
 }
 
 .menu a:hover{
-	transition-duration: 300ms;
+	-webkit-transition-duration: 300ms;
+	     -o-transition-duration: 300ms;
+	        transition-duration: 300ms;
 	background-color: #892d4a;
 }
 
@@ -190,7 +218,9 @@ section#contact{
 }
 
 .work-experience{
-	display: flex;
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
 	margin: 25px 0;
 }
 
@@ -217,13 +247,17 @@ ul.skills-list {
 }
 
 ul.skills-list li {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     height: 50px;
     background-color: rgba(255,255,255,0.5);
     line-height: 50px;
 	padding: 0 20px;
 	margin-bottom: 5px;
-	justify-content: space-between;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
 	position: relative;
 }
 
@@ -241,14 +275,20 @@ ul.skills-list li >  div.progress-bar{
 }
 
 .form{
-	display: flex;
-	flex-wrap: wrap
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+	-ms-flex-wrap: wrap;
+    flex-wrap: wrap
 }
 
 .form label{
 	width: 100%;
-	display: flex;
-	flex-wrap: wrap;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
 	padding: 6px 0px;
 }
 
@@ -278,14 +318,20 @@ select.form-controller{
 	font-weight: normal;
 	width: 100%;
 	text-align: center;
+	height: -webkit-fit-content;
+	height: -moz-fit-content;
 	height: fit-content;
 	margin: 0 0 40px;
 }
 
 .contact-fields-wrapper{
 	width: 100%;
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
-	justify-content: space-between;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
 	margin: 10px 0;
 }
 
@@ -305,7 +351,9 @@ input[type=submit]{
 	font-size: 19px;
 	padding: 12px 24px;
 	cursor: pointer;
-	transition-duration: 300ms;
+	-webkit-transition-duration: 300ms;
+	     -o-transition-duration: 300ms;
+	        transition-duration: 300ms;
 }
 
 input[type=submit]:hover{
@@ -314,6 +362,26 @@ input[type=submit]:hover{
 
 #projects{
 	color: #332b2e
+}
+
+::-webkit-input-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: white;
+	opacity: 1; /* Firefox */
+}
+
+::-moz-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: white;
+	opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: white;
+	opacity: 1; /* Firefox */
+}
+
+::-ms-input-placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: white;
+	opacity: 1; /* Firefox */
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
@@ -343,9 +411,14 @@ footer{
 }
 
 .project{
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .project img{
