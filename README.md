@@ -1,3 +1,8 @@
-# resume
+## My website
+This is my online resume, I intend to keep improving and updating it.
 
-This is an alive project to be my online résumé, you can access it at https://mateus.art.br
+![Screenshot of the site](https://raw.githubusercontent.com/iammateus/iammateus/readme/assets/img/screenshot.png)
+
+
+## Online access
+You can play it using the [link](https://mateus.art.br/)
