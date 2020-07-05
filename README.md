@@ -6,3 +6,7 @@ This is my online resume, I intend to keep improving and updating it.
 
 ## Online access
 You can play it using the [link](https://mateus.art.br/)
+
+## License
+
+[MIT](https://github.com/iammateus/iammateus/blob/master/LICENSE)
