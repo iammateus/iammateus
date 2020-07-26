@@ -1,12 +1,14 @@
-## My website
-This is my online resume, I intend to keep improving and updating it.
+
+# I am Mateus
+
+I'm a Full Stack Developer and System Analyst at Pravaler one of the greats Brazil's fintech.
+
+I have a serious passion for problem-solving, and the creation of well-optimized solutions.
+
+Here on Github, you can find some projects of mine.
+
+## My online site
+
+I have also a site, where I will try to keep up to date and you can access right [here](https://mateus.art.br/).
 
 ![Screenshot of the site](https://raw.githubusercontent.com/iammateus/iammateus/readme/assets/img/screenshot.png)
-
-
-## Online access
-You can access the site [here](https://mateus.art.br/).
-
-## License
-
-[MIT](https://github.com/iammateus/iammateus/blob/master/LICENSE)
