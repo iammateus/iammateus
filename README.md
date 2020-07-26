@@ -1,11 +1,12 @@
-
 # I am Mateus
 
 I'm a Full Stack Developer and System Analyst at Pravaler one of the greats Brazil's fintech.
 
-I have a serious passion for problem-solving, and the creation of well-optimized solutions.
+I have a passion for problem-solving, and the creation of well-optimized solutions.
 
 Here on Github, you can find some projects of mine.
+
+Let's make something special!
 
 ## My online site
 
