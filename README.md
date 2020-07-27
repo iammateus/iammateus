@@ -1,4 +1,4 @@
-# I am Mateus
+# Hi, my name is Mateus
 
 I'm a Full Stack Developer and System Analyst at Pravaler one of the greats Brazil's fintech.
 
