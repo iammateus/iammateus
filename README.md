@@ -17,6 +17,8 @@ Let's make something special!
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
 [![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
+[![Python Badge](https://img.shields.io/badge/-Python-3b76a8?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/](https://www.python.org/)
+
 
 
 ## My online site
