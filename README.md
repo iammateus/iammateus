@@ -18,5 +18,3 @@ Let's make something special!
 ## My online site
 
 I have also a site, where I will try to keep up to date and you can access right [here](https://mateus.art.br/).
-
-![Screenshot of the site](https://raw.githubusercontent.com/iammateus/iammateus/readme/assets/img/screenshot.png)
