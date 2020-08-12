@@ -16,7 +16,7 @@ Let's make something special!
 ### Programming Languages
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
-[![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/](https://www.php.net/)
+[![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
 
 
 ## My online site
