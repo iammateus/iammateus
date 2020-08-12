@@ -1,4 +1,4 @@
-# Hi, my name is Mateus <img src="https://im7.ezgif.com/tmp/ezgif-7-207d93fd75cc.gif" width="50px">
+# Hi, my name is Mateus <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="50px">
 
 I'm a Full Stack Developer and System Analyst at Pravaler one of the greats Brazil's fintech.
 
