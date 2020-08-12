@@ -21,7 +21,10 @@ Let's make something special!
 
 ### Learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="45px">
 
-[![Math Badge](https://img.shields.io/badge/-Math-yellow?style=flat-square&logoColor=white)](https://en.wikipedia.org/wiki/Mathematics)
+ -  Cloud Computing
+ -  Math
+ -  Microservices Architecture
+ -  Mongodb
 
 ## My online site
 
