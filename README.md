@@ -1,4 +1,4 @@
-# Hi, my name is Mateus
+# Hi, my name is Mateus <img src="https://media1.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="50px">
 
 I'm a Full Stack Developer and System Analyst at Pravaler one of the greats Brazil's fintech.
 
