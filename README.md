@@ -8,7 +8,9 @@
 ### About
 
 I'm a Full Stack Developer, and I have a passion for problem-solving, and the creation of well-optimized solutions.  
+
 Here on Github, you will find some projects of mine.
+
 Let's make something special!
 
 ### My online site
