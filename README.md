@@ -7,12 +7,8 @@
 
 ### About
 
-I'm a Full Stack Developer and System Analyst at Pravaler one of the greats Brazil's fintech.
-
-I have a passion for problem-solving, and the creation of well-optimized solutions.
-
-Here on Github, you can find some projects of mine.
-
+I'm a Full Stack Developer, and I have a passion for problem-solving, and the creation of well-optimized solutions.
+Here on Github, you will find some projects of mine.
 Let's make something special!
 
 ### My online site
