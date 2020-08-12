@@ -13,7 +13,7 @@ Here on Github, you will find some projects of mine.
 
 Let's make something special!
 
-### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="60px">
+### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="45px">
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
 [![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
