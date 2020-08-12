@@ -19,7 +19,9 @@ Let's make something special!
 [![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
 [![Python Badge](https://img.shields.io/badge/-Python-3b76a8?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 
+### Learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="45px">
 
+[![Math Badge](https://img.shields.io/badge/-Math-yellow?style=flat-square&logoColor=white)](https://en.wikipedia.org/wiki/Mathematics)
 
 ## My online site
 
