@@ -28,4 +28,4 @@ Let's make something special!
 
 ## My online site
 
-I have also a site, where I will try to keep up to date and you can access right [here](https://mateus.art.br/).
+I have a site, and you can access it right [here](https://mateus.art.br/).
