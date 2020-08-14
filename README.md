@@ -21,6 +21,7 @@ Let's make something special!
 
 ### Learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="45px">
 
+ -  Automated Tests
  -  Cloud Computing
  -  Math
  -  Microservices Architecture
