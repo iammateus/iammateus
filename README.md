@@ -1,4 +1,4 @@
-# Hi, my name is Mateus <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="50px">
+# Hi there, my name is Mateus <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="50px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/mateussoaressilva/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronnyacacio)](https://github.com/iammateus)
