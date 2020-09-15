@@ -7,7 +7,7 @@
 
 ## About
 
-I'm a Full Stack Developer, and I have a passion for problem-solving, and the creation of well-optimized solutions.  
+I'm a Full Stack Developer. I have a passion for problem-solving, and the creation of well-optimized solutions.  
 
 Here on Github, you will find some projects of mine.
 
@@ -30,4 +30,4 @@ Let's make something special!
 
 ## My online site
 
-I have a site, and you can access it right [here](https://mateus.art.br/).
+I have a site, and you can access it [right here](https://mateus.art.br/).
