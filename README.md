@@ -26,7 +26,7 @@ Let's make something special!
  -  Math
  -  Microservices Architecture
  -  MongoDB
- -  Test automation
+ -  Test Automation
 
 ### My website 
 
