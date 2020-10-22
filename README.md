@@ -7,7 +7,7 @@
 
 ## About
 
-I'm a Full Stack Developer. I have a passion for problem-solving, and the creation of well-optimized solutions.  
+I'm a software engineer passionate about problem-solving, and a promoter of the creation of high quality code.  
 
 Here on Github, you can find some projects of mine.
 
