@@ -7,7 +7,7 @@
 
 ## About
 
-I'm a software engineer passionate about problem-solving, and a promoter of the creation of high-quality code. 
+I'm a software engineer passionate about problem-solving, and a promoter of the craft of high-quality solutions. 
 
 Here on Github, you can find some projects of mine.
 
