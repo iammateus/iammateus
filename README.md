@@ -9,7 +9,7 @@
 
 I'm a software engineer passionate about problem-solving, and a promoter of the craft of high-quality solutions. 
 
-Here on Github, you can find some projects of mine.
+You can find some projects of mine here on Github.
 
 Let's make something special!
 
@@ -30,4 +30,4 @@ Let's make something special!
 
 ### My website 
 
-I have a site, and you can access it [in this link](https://mateus.art.br/).
+I have a website, and you can access it [here](https://mateus.art.br/).
