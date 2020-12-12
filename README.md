@@ -3,7 +3,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585992681698&text=Olá!)](https://api.whatsapp.com/send?phone=5511981375667&text=Hello!)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/mateussoaressilva/)
 [![Gmail Badge](https://img.shields.io/badge/-mateussoaress1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateussoaress1997@gmail.com)](mailto:mateussoaress1997@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronnyacacio)](https://github.com/iammateus
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronnyacacio)](https://github.com/iammateus)
 
 ## About
 
