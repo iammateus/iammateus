@@ -22,7 +22,6 @@ Let's make something special!
 ### Learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="45px">
 
  -  Cloud Computing
- -  Node.js & Express.js
  -  Math
  -  Microservices Architecture
  -  MongoDB
