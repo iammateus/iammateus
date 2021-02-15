@@ -23,6 +23,7 @@ Let's make something special!
 
  -  AWS
  -  Cloud Computing
+ -  Kubernetes
  -  Microservices Architecture
  -  MongoDB
  -  Test Automation
