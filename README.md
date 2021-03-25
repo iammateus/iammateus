@@ -5,9 +5,9 @@
 
 ### About me
 
-I'm a software engineer passionate about problem-solving, and a promoter of the craft of high-quality solutions. 
-You can find some projects of mine here on Github.
-Let's make something special!
+I'm a software engineer passionate about problem-solving, and a promoter of the craft of high-quality solutions.  
+You can find some projects of mine here on Github.  
+Let's make something special!  
 
 ### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="45px">
 
