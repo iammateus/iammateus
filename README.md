@@ -9,7 +9,7 @@ I'm a software engineer passionate about problem-solving, and a promoter of the 
 You can find some projects of mine here on Github.  
 Let's make something special!  
 
-### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="45px">
+### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="35px">
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white&colorlink=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp) [![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/) [![Python Badge](https://img.shields.io/badge/-Python-3b76a8?style=flat&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 
