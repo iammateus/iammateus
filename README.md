@@ -5,8 +5,8 @@
 ### About me
 
 :bowtie: I'm a software engineer fascinated by the craft of problem-solving and the creation of high-quality solutions.  
-You can find some projects of mine here on Github.  
-Let's make something special! :rocket:
+:monocle_face: You can find some projects of mine here on Github.  
+:rocket: Let's make something special!
 
 ### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="35px">
 
