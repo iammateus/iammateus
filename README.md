@@ -5,8 +5,9 @@
 
 ### About me
 
-I'm a software engineer passionate about problem-solving, and a promoter of the craft of high-quality solutions.  
+I'm a software engineer fascinated by the craft of problem-solving and the creation of high-quality solutions.  
 You can find some projects of mine here on Github.  
+I have a website, and you can access it [here](https://mateus.art.br/).  
 Let's make something special!  
 
 ### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="35px">
@@ -21,7 +22,3 @@ Let's make something special!
  -  Microservices Architecture
  -  MongoDB
  -  Test Automation
-
-### My website 
-
-I have a website, and you can access it [here](https://mateus.art.br/).
