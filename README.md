@@ -18,3 +18,4 @@
 :honeybee: Microservices Architecture  
 :books: MongoDB  
 :construction_worker: Test Automation  
+:guitar: Guitar
