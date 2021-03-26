@@ -14,9 +14,9 @@
 
 ### Learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="35px">
 
- -  AWS
- -  Cloud Computing
- -  Kubernetes
- -  Microservices Architecture
- -  MongoDB
- -  Test Automation
+AWS
+Cloud Computing
+Kubernetes
+Microservices Architecture
+MongoDB
+Test Automation
