@@ -156,7 +156,7 @@ section#about {
 
 .half {
     width: 38%;
-    padding: 10px 2%;
+    padding: 80px 2%;
 }
 
 .icon {
@@ -225,8 +225,10 @@ section#about {
 .work-experience-content span {
     padding: 5px 20px 0;
     font-size: 12px;
+    font-weight: 100;
+    color: #bfb3b5;
+    font-style: italic;
     font-weight: bold;
-    color: #b5b6c1;
 }
 
 .work-experience-content p {
