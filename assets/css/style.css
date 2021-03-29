@@ -61,7 +61,7 @@ body {
     max-width: 350px;
     margin: 0 auto;
     text-align: center;
-    padding: 65px 0 32px;
+    padding: 65px 0 65px;
     color: black;
 }
 
@@ -137,7 +137,7 @@ section {
     min-height: 40vh;
     position: relative;
     -webkit-clip-path: polygon(0 0%, 100% 10%, 100% 100%, 0% 90%);
-    clip-path: polygon(0 0%, 100% 5%, 100% 100%, 0% 95%);
+    clip-path: polygon(0 0%, 100% 5%, 100% 100%, 0% 100%);
     padding: 65px 20px;
     color: white;
     display: -webkit-box;
@@ -155,8 +155,8 @@ section#about {
 }
 
 .half {
-    width: 35%;
-    padding: 60px 2%;
+    width: 38%;
+    padding: 10px 2%;
 }
 
 .icon {
@@ -198,8 +198,8 @@ section#about {
 
 #about h4 {
     font-size: 1.6em;
-    font-weight: normal;
-    padding: 0 0 20px 0;
+    padding: 0 0 15px 0;
+    font-weight: bold;
 }
 
 #about h5 {
@@ -212,7 +212,7 @@ section#about {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    margin: 25px 0;
+    margin: 15px 0;
 }
 
 .work-experience-image {
@@ -223,7 +223,7 @@ section#about {
 }
 
 .work-experience-content span {
-    padding: 5px 25px 0;
+    padding: 5px 20px 0;
     font-size: 12px;
     font-weight: bold;
     color: #b5b6c1;
@@ -235,6 +235,7 @@ section#about {
 
 ul.skills-list {
     list-style: none;
+    width: 85%;
 }
 
 .skill {
@@ -252,6 +253,7 @@ ul.skills-list {
     position: relative;
     font-size: 0.9em;
     background-color: #ce3464;
+    box-shadow: 0px -2px 9px 2px rgb(0 0 0 / 76%);
 }
 
 .section-title {
@@ -311,17 +313,29 @@ footer {
     padding: 38px 0;
     color: white;
     font-size: 16px;
+    border-top: solid 1px black;
 }
 
 @media screen and (max-width: 768px) {
+    #about .position-title {
+        text-align: center;
+        padding: 0;
+    }
+    .work-experience-content span {
+        padding: 0;
+        text-align: center;
+    }
+    ul.skills-list {
+        width: 100%;
+    }
     .work-experience {
         flex-direction: column;
         align-items: center;
         text-align: center;
     }
     section {
-        -webkit-clip-path: initial;
-        clip-path: initial;
+        /* -webkit-clip-path: initial; */
+        /* clip-path: initial; */
     }
     #avatar {
         width: 156px;
@@ -362,9 +376,12 @@ footer {
 
 #about p {
     text-align: justify;
-    font-size: 0.9em;
 }
 
 p.job-description {
     font-size: 0.8em;
+}
+
+#about .work-experience-title {
+    padding: 15px 0 15px;
 }
