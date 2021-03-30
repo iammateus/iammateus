@@ -187,13 +187,48 @@ section#about {
     font-weight: bolder;
     -webkit-box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.9);
     box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.9);
+    -webkit-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+
+.menu a:before {
+    pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: "";
+    top: 100%;
+    left: 5%;
+    height: 10px;
+    width: 90%;
+    opacity: 0;
+    background: -webkit-radial-gradient(
+        center,
+        ellipse,
+        rgba(0, 0, 0, 0.35) 0%,
+        rgba(0, 0, 0, 0) 80%
+    );
+    background: radial-gradient(
+        ellipse at center,
+        rgba(0, 0, 0, 0.35) 0%,
+        rgba(0, 0, 0, 0) 80%
+    );
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform, opacity;
+    transition-property: transform, opacity;
+}
+
+.menu a:hover:before {
+    opacity: 1;
+    -webkit-transform: translateY(5px);
+    transform: translateY(5px);
 }
 
 .menu a:hover {
-    -webkit-transition-duration: 300ms;
-    -o-transition-duration: 300ms;
-    transition-duration: 300ms;
-    background-color: #892d4a;
+    /* background-color: #892d4a; */
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
 }
 
 #about h4 {
@@ -315,7 +350,6 @@ footer {
     padding: 38px 0;
     color: white;
     font-size: 16px;
-    border-top: solid 1px black;
 }
 
 @media screen and (max-width: 768px) {
