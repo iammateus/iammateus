@@ -17,6 +17,6 @@
 :cloud: Cloud Computing (AWS & Kubernetes)  
 :memo: Infrastructure as code  
 :honeybee: Microservices architecture  
-:books: MongoDB  
+:books: NoSQL (MongoDB)  
 :construction_worker: Test automation  
 :guitar: Guitar
