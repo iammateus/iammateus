@@ -15,7 +15,8 @@
 ### Learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="35px">
 
 :cloud: Cloud Computing (AWS & Kubernetes)  
-:honeybee: Microservices Architecture  
+:memo: Infrastructure as code
+:honeybee: Microservices architecture  
 :books: MongoDB  
-:construction_worker: Test Automation  
+:construction_worker: Test automation  
 :guitar: Guitar
