@@ -17,5 +17,4 @@
 :memo: Infrastructure as code  
 :honeybee: Microservices architecture  
 :books: NoSQL (MongoDB)  
-:construction_worker: Software testing  
-:guitar: Guitar
+:construction_worker: Software testing 
