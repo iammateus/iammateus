@@ -9,7 +9,7 @@
 
 ### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="35px">
 
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white&colorlink=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp) [![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp) [![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/) [![Clojure Badge](https://img.shields.io/badge/-Clojure-blue?style=flat&logo=Clojure&logoColor=green&link=https://clojure.org/)
 
 ### What I'm learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="35px">
 
