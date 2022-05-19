@@ -13,8 +13,10 @@
 
 ### What I'm learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="35px">
 
-:cloud: Cloud Computing (AWS & Kubernetes)  
-:memo: Infrastructure as code  
-:honeybee: Microservices architecture  
-:books: NoSQL (MongoDB)  
-:construction_worker: Software testing 
+:monocle_face: Clojure and functional programming  
+:construction_worker: Software testing  
+:man_artist: Software design  
+:honeybee: Microservices architecture    
+
+
+
