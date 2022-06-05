@@ -9,7 +9,8 @@
 
 ### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="55">
 
-[![Clojure Badge](https://img.shields.io/badge/-Clojure-blue?style=flat&logo=Clojure&logoColor=white&link=https://clojure.org/)](https://clojure.org/) 
+[![Clojure Badge](https://img.shields.io/badge/-Clojure-blue?style=flat&logo=Clojure&logoColor=green&link=https://clojure.org/)](https://clojure.org/)
+[![TypesScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/) 
 
