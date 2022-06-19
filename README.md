@@ -21,5 +21,9 @@
 :man_artist: Software design  
 :honeybee: Microservices architecture    
 
+## Stats (that don't matter that much)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iammateus)](https://git.io/streak-stats)
+
 
 
