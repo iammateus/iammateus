@@ -21,7 +21,7 @@
 :man_artist: Software design  
 :honeybee: Microservices architecture    
 
-## Stats 
+## Stats <img src="https://media0.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="55">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iammateus&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
