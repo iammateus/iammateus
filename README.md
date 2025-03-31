@@ -17,6 +17,4 @@
 ### What I'm learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="55">
 
 :monocle_face: Clojure and functional programming  
-:construction_worker: Software testing  
-:man_artist: Software design  
-:honeybee: Microservices architecture 
+:snake: Python  
