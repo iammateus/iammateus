@@ -18,5 +18,5 @@
 ### What I'm learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="55">
 
 :shield: Data Security  
-:robot: How to navigate in the uncertainty of AI
+:robot: How to navigate in the uncertainty of AI  
 :book: :playground_slide: Re-learning how to learn by having fun 
