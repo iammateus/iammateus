@@ -19,3 +19,4 @@
 
 :shield: Data Security  
 :robot: How to navigate in the uncertainty of AI
+:book: :playground_slide: Re-learning how to learn by having fun 
